@@ -1,0 +1,238 @@
+# Business Wish List Summary
+
+## Computer Equipment
+- **CORSAIR VENGEANCE RGB DDR5 RAM 128GB (4x32GB) 5600MHz CL40 Intel XMP iCUE Compatible Computer Memory - Black (CMH128GX5M4B5600C40)**
+  - Price: $449.99
+  - Quantity: 1
+  - [Dummy Link Placeholder]
+- **CoolerMaster MasterLiquid ML240L ARGB V2, Close-Loop AIO CPU Liquid Cooler**
+  - Price: $74.99
+  - Quantity: 1
+  - [Dummy Link Placeholder]
+- **AMD Ryzen™ 9 7900X 12-Core, 24-Thread Unlocked Desktop Processor**
+  - Price: $406.79
+  - Quantity: 1
+  - [Dummy Link Placeholder]
+- **GIGABYTE B650 AORUS Elite AX AMD B650 ATX Motherboard**
+  - Price: $199.99
+  - Quantity: 1
+  - [Dummy Link Placeholder]
+- **EVGA Supernova 1000 P3, 80 Plus Platinum 1000W**
+  - Price: $224.00
+  - Quantity: 1
+  - [Dummy Link Placeholder]
+- **EVGA GeForce RTX 3090 FTW3 Ultra Gaming**
+  - Price: $1,569.99
+  - Quantity: 1
+  - [Dummy Link Placeholder]
+- **Wacom STU-430 Signature pad**
+  - Price: $256.46
+  - Quantity: 1
+  - [Dummy Link Placeholder]
+- **Subtotal: $3,181.22**
+
+## Office Supplies
+- **Gisafai Table Top Passport ID Photo Die Cutter**
+  - Price: $60.99
+  - Quantity: 1
+  - [Dummy Link Placeholder]
+- **Neil Enterprises Passport Folders in Off-White - Pack of 100**
+  - Price: $19.95
+  - Quantity: 1
+  - [Dummy Link Placeholder]
+- **Passport Photo Holder Folders 150 Pack**
+  - Price: $19.99
+  - Quantity: 1
+  - [Dummy Link Placeholder]
+- **Braun Electric Razor for Men, Series 6 6072cc SensoFlex**
+  - Price: $119.99
+  - Quantity: 1
+  - [Dummy Link Placeholder]
+- **Receipt Paper Roll for Square Terminal Credit Card Machine**
+  - Price: $9.99
+  - Quantity: 1
+  - [Dummy Link Placeholder]
+- **Square Terminal Screen Protector**
+  - Price: $8.99
+  - Quantity: 1
+  - [Dummy Link Placeholder]
+- **Mchoi Hard EVA Travel Case for Square Terminal, Printer Paper and Accessories**
+  - Price: $17.62
+  - Quantity: 1
+  - [Dummy Link Placeholder]
+- **Square Terminal - Credit Card Machine to Accept All Payments | Mobile POS**
+  - Price: $298.99
+  - Quantity: 1
+  - [Dummy Link Placeholder]
+- **Brother Genuine Standard Yield Toner Cartridge, TN730**
+  - Price: $45.48
+  - Quantity: 1
+  - [Dummy Link Placeholder]
+- **Brother Compact Monochrome Laser Printer, HLL2395DW**
+  - Price: $189.99
+  - Quantity: 1
+  - [Dummy Link Placeholder]
+- **Subtotal: $791.99**
+
+## Photography Equipment
+- **2022 HUION KAMVAS Pro 16 2.5K QHD Drawing Tablet**
+  - Price: $599.00
+  - Quantity: 1
+  - [Dummy Link Placeholder]
+- **Canon SELPHY CP1500 Compact Photo Printer Black**
+  - Price: $139.00
+  - Quantity: 1
+  - [Dummy Link Placeholder]
+- **co2CREA Hard Case Replacement for Canon SELPHY CP1300 / CP1500 / CP1200**
+  - Price: $25.99
+  - Quantity: 1
+  - [Dummy Link Placeholder]
+- **Canon KP-108IN Ink Paper Set (2) Pack**
+  - Price: $59.99
+  - Quantity: 1
+  - [Dummy Link Placeholder]
+- **DJI Mini 4 Pro (Real estate photography drone)**
+  - Price: $1,159.00
+  - Quantity: 1
+  - [Dummy Link Placeholder]
+- **JJC EW-60F Reversible Lens Hood for Canon**
+  - Price: $9.99
+  - Quantity: 1
+  - [Dummy Link Placeholder]
+- **Soft Silicon R7 Eyecup Eyepiece**
+  - Price: $16.99
+  - Quantity: 1
+  - [Dummy Link Placeholder]
+- **JJC Multi-Coated 58mm UV Filter for Canon**
+  - Price: $12.99
+  - Quantity: 1
+  - [Dummy Link Placeholder]
+- **ULBTER Rebel T7 T6 Screen Protector for Canon EOS**
+  - Price: $7.99
+  - Quantity: 1
+  - [Dummy Link Placeholder]
+- **BM Premium 2 Pack of LP-E6NH High Capacity Batteries and Dual Bay Battery Charger**
+  - Price: $54.99
+  - Quantity: 1
+  - [Dummy Link Placeholder]
+- **Easy Hood Case for Canon Rebel T6 T7**
+  - Price: $20.99
+  - Quantity: 1
+  - [Dummy Link Placeholder]
+- **Neewer 150 x 200 cm Chromakey Black and White 2-in-1 Foldable Pop-Up Backdrop**
+  - Price: $96.95
+  - Quantity: 1
+  - [Dummy Link Placeholder]
+- **Subtotal: $2,193.88**
+
+## Graphic Design Equipment
+- **TourBox NEO, Custom Controller for Photo Video Editing**
+  - Price: $182.00
+  - Quantity: 1
+  - [Dummy Link Placeholder]
+- **3Dconnexion 3DX-700040 SpaceMouse Pro 3D Mouse**
+  - Price: $279.99
+  - Quantity: 1
+  - [Dummy Link Placeholder]
+- **Logitech MX Master 3S - Wireless Performance Mouse**
+  - Price: $99.99
+  - Quantity: 1
+  - [Dummy Link Placeholder]
+- **HUION 10 Pack Replacement Nibs PN05A**
+  - Price: $8.99
+  - Quantity: 1
+  - [Dummy Link Placeholder]
+- **Parblo PR-01 Drawing Glove 2Pack**
+  - Price: $10.99
+  - Quantity: 1
+  - [Dummy Link Placeholder]
+- **Amazon Basics Micro SDXC Memory Card with Full Size Adapter**
+  - Price: $18.79
+  - Quantity: 1
+  - [Dummy Link Placeholder]
+- **SD Card Reader, uni High-Speed USB C to Micro SD Card Adapter USB 3.0 Dual Slots**
+  - Price: $9.99
+  - Quantity: 1
+  - [Dummy Link Placeholder]
+- **Subtotal: $610.75**
+
+## Educational Expenses
+- **NNA exam**
+  - Price: $200.00
+  - [Dummy Link Placeholder]
+- **Terraform Certified Associate**
+  - Price: $70.00
+  - [Dummy Link Placeholder]
+- **Certified Jenkins Engineer certification**
+  - Price: $99.00
+  - [Dummy Link Placeholder]
+- **Aws certified developer associate**
+  - Price: $150.00
+  - [Dummy Link Placeholder]
+- **Aws sysops associate**
+  - Price: $150.00
+  - [Dummy Link Placeholder]
+- **Microsoft Certified: Azure AI Engineer Associate certification exam (AZ-102)**
+  - Price: $165.00
+  - [Dummy Link Placeholder]
+- **Docker certified associate**
+  - Price: $195.00
+  - [Dummy Link Placeholder]
+- **Professional cloud developer**
+  - Price: $200.00
+  - [Dummy Link Placeholder]
+- **Professional Google workplace administrator**
+  - Price: $200.00
+  - [Dummy Link Placeholder]
+- **Certified Kubernetes administrator**
+  - Price: $395.00
+  - [Dummy Link Placeholder]
+- **Red hat certified administrator**
+  - Price: $400.00
+  - [Dummy Link Placeholder]
+- **Ansible automation certificate**
+  - Price: $400.00
+  - [Dummy Link Placeholder]
+- **Subtotal: $2,624.00**
+
+## Subscriptions
+- **Squarespace website business subscription**
+  - Price: $276.00
+  - [Dummy Link Placeholder]
+- **Skillbuilder AWS subscription**
+  - Price: $299.00
+  - [Dummy Link Placeholder]
+- **Subtotal: $575.00**
+
+## Courses
+- **Real Estate Photography Masterclass**
+  - Price: $197.00
+  - [Dummy Link Placeholder]
+- **Commercial Drone Pilot Bundle Part 107 Drone Business**
+  - Price: $199.00
+  - [Dummy Link Placeholder]
+- **Mapping, Modeling, Surveying Course**
+  - Price: $299.00
+  - [Dummy Link Placeholder]
+- **Real Estate Photo and Video Course**
+  - Price: $149.00
+  - [Dummy Link Placeholder]
+- **Subtotal: $844.00**
+
+## Google Innovators Program
+- **Google Innovators Program**
+  - Price: $299.00
+  - [Dummy Link Placeholder]
+- **Subtotal: $299.00**
+
+## Grand Total
+- **Computer Equipment: $8,871.15**
+- **Office Supplies: $791.99**
+- **Other Equipment: $6,402.67**
+- **Educational Expenses: $2,624.00**
+- **Subscriptions: $863.00**
+- **Courses: $844.00**
+- **Google Innovators Program: $299.00**
+- **Total: $20,695.81**
+
+[Please ensure all links are updated before making any purchases.]
